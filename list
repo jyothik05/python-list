@@ -1,0 +1,8 @@
+#Lists are used to store multiple items in a single variable.
+#LIST is  mutable (it can be changed) and enclosed between square brackets 
+#it can hold different type of data 
+#it can store duplicate values
+list1 = [10.23,12,"bird",100]
+print(list1)
+
+
